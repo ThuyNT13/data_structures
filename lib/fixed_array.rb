@@ -1,5 +1,3 @@
-require_relative 'exceptions'
-
 class FixedArray
   attr_reader :size
 
