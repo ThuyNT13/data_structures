@@ -17,6 +17,10 @@ Data Structures:
 
 ### Test
 
+Currently all tests pass except for the [issue of the expanding array list](https://github.com/ThuyNT13/data_structures/issues/1)
+
+Utilizing **Rspec** to run tests:
+
 ```bash
 rspec
 ```
