@@ -1,14 +1,12 @@
 # Data Structures
 
-Based off of [Abstract Data Structures and Algorithms Unit](https://github.com/Devbootcamp/data-structures-and-algorithms-unit).
-
 Mostly completed the first 3. Need to address expansion of array list data structure.
 
 Data Structures:
 
- 1. [Fixed Arrays](lib/fixed_array.rb)
- 2. [Array Lists](lib/array_list.rb)
- 3. [Linked Lists](lib/linked_list.rb)
+ 1. [Fixed Arrays](src/fixed_array.rb)
+ 2. [Array Lists](src/array_list.rb)
+ 3. [Linked Lists](src/linked_list.rb)
  4.  Stacks
  5.  Queues
  6.  Trees
